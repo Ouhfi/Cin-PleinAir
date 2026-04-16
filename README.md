@@ -18,7 +18,7 @@ It allows users to explore movies, view details, and enjoy a clean and modern in
 - TVMaze API
 
 ## 📷 Preview
-![Preview](./preview.png)
+![Preview](/icons/netflix_macos_bigsur_icon_189917.png)
 
 ## ⚙️ How to Run
 1. Clone the repository:
